@@ -12,12 +12,6 @@ This project implements a **secure static website hosting architecture on AWS**.
 
 The website's static files are stored in an Amazon S3 bucket. Amazon CloudFront is used as the content delivery layer to provide fast and secure access to the website. AWS Certificate Manager provides the SSL/TLS certificate for HTTPS, while Amazon Route 53 handles DNS resolution for the custom domain.
 
-###  Live Website
-
-**https://www.sanketdaingade.online**
-
----
-
 ##  Architecture
 
 ### Architecture Diagram
@@ -64,7 +58,7 @@ AWS Certificate Manager (ACM)
 
 ---
 
-## ☁️ AWS Services Used
+##  AWS Services Used
 
 | AWS Service                       | Purpose                                  |
 | --------------------------------- | ---------------------------------------- |
